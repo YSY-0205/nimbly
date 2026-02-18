@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #020617;
+  color: #e2e8f0;
+}
+
+button {
+  font-family: inherit;
+}
+
+button:focus {
+  outline: 2px solid #38bdf8;
+  outline-offset: 2px;
+}
